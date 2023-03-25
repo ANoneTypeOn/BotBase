@@ -1,0 +1,25 @@
+[api]
+id = 1234567890
+hash = "1234567890abcdefGHJKL"
+
+token = "1234567890:AABcdSqAsdASDDfga_0113Jf_13"
+
+[db]
+name = "template"
+role = "postgres"
+
+path = "/run/postgresql"
+port = 5432
+
+[session]
+name = "dev"
+
+[logging]
+channel = -100139151929
+
+[dev]
+id = 123456789
+link = "https://t.me/cheesd"
+
+[misc]
+smth = "0000000"
